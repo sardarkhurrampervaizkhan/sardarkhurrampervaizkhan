@@ -86,14 +86,5 @@ Creative Android Developer with 6+ years of Experience in Android application de
  ![Khurram's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkhurramkhan&count_private=true&show_icons=true&theme=radical) &nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smkhurramkhan&theme=radical)](https://git.io/streak-stats)
 </br> </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhurramkhan&layout=compact&theme=radical)](https://github.com/smkhurramkhan/github-readme-stats)
-
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=smkhurramkhan&theme=radical&margin-h=15&margin-w=5&alt="TROPHY" />
-    </a>
-</div>
-</p>
 <!--
 **smkhurramkhan/smkhurramkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
